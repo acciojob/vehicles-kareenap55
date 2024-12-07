@@ -1,0 +1,24 @@
+Subtask 1:
+
+Complete the driver code for the following classes:
+
+Vehicle
+Car
+F1
+
+Subtask 2:
+
+Construct a new class Boat implementing the WaterVehicle interface.
+
+Boat:
+
+name: String - The name of the boat.
+capacity: int - The capacity of the boat.
+Implement the following methods:
+
+getVehicleName(): Returns the name of the boat.
+getVehicleCapacity(): Returns the capacity of the boat.
+
+Note:
+
+Make sure that the class names are exactly the same as mentioned.
